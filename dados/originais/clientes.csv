@@ -1,0 +1,301 @@
+﻿codigo_cliente_origem;nome_cliente;cidade;data_cadastro;status_cliente
+CLI0001;Carla Martins;Santa Rita;2023-01-05;ATIVO
+CLI0002;Thiago Oliveira;Patos;2023-02-16;INATIVO
+CLI0003;Mariana Rocha;Patos;2023-08-29;INATIVO
+CLI0004;Carla Souza;Campina Grande;2025-08-27;ATIVO
+CLI0005;Gabriela Barbosa;Cabedelo;2024-05-17;INATIVO
+CLI0006;Pedro Freitas;Bayeux;2025-02-16;INATIVO
+CLI0007;Leticia Martins;Guarabira;2024-03-27;INATIVO
+CLI0008;Caio Martins;Bayeux;2023-07-09;ATIVO
+CLI0009;Pedro Carvalho;Sousa;2024-02-11;ATIVO
+CLI0010;Renato Pereira;Cabedelo;2023-04-11;ATIVO
+CLI0011;Pedro Mendes;Cabedelo;2025-04-24;ATIVO
+CLI0012;Felipe Nunes;Mamanguape;2023-07-21;ATIVO
+CLI0013;Marcelo Silva;Patos;2024-02-17;INATIVO
+CLI0014;Mariana Araujo;Guarabira;2025-12-10;INATIVO
+CLI0015;Rafaela Oliveira;Santa Rita;2024-10-10;ATIVO
+CLI0016;Mateus Ferreira;Santa Rita;2024-05-17;ATIVO
+CLI0017;Carla Santos;Sape;2024-08-18;ATIVO
+CLI0018;Vanessa Barbosa;Sape;2025-05-09;ATIVO
+CLI0019;Renato Araujo;Joao Pessoa;2023-10-06;ATIVO
+CLI0020;Isabela Silva;Campina Grande;2024-11-28;ATIVO
+CLI0021;Eduarda Martins;Mamanguape;2025-08-14;INATIVO
+CLI0022;Caio Mendes;Mamanguape;2024-09-19;ATIVO
+CLI0023;Carla Freitas;Campina Grande;2024-05-04;INATIVO
+CLI0024;Mateus Rocha;Mamanguape;2023-06-09;ATIVO
+CLI0025;Amanda Martins;Santa Rita;2023-09-30;INATIVO
+CLI0026;Leticia Dias;Sape;2025-11-02;ATIVO
+CLI0027;Julia Pereira;Guarabira;2024-08-16;INATIVO
+CLI0028;Natalia Almeida;Guarabira;2023-11-27;ATIVO
+CLI0029;Rafaela Dias;Bayeux;2024-04-03;ATIVO
+CLI0030;Leticia Souza;Guarabira;2024-09-25;INATIVO
+CLI0031;Diego Costa;Patos;2024-08-12;INATIVO
+CLI0032;Julia Freitas;Guarabira;2025-02-05;INATIVO
+CLI0033;Mariana Lima;Mamanguape;2023-10-10;ATIVO
+CLI0034;Diego Mendes;Guarabira;2024-12-12;ATIVO
+CLI0035;Carla Pereira;Campina Grande;2024-04-30;ATIVO
+CLI0036;Marcelo Dias;Santa Rita;2025-10-27;ATIVO
+CLI0037;Mateus Carvalho;Sape;2023-06-23;ATIVO
+CLI0038;Amanda Pereira;Sape;2023-06-12;ATIVO
+CLI0039;Joao Ferreira;Patos;2024-05-20;INATIVO
+CLI0040;Rafaela Souza;Sousa;2024-07-11;INATIVO
+CLI0041;Camila Oliveira;Santa Rita;2025-01-27;ATIVO
+CLI0042;Eduarda Araujo;Sousa;2024-03-18;INATIVO
+CLI0043;Sofia Costa;Cabedelo;2025-09-28;ATIVO
+CLI0044;Carla Lima;Mamanguape;2024-06-03;ATIVO
+CLI0045;Marcelo Araujo;Patos;2023-05-22;ATIVO
+CLI0046;Mateus Araujo;Guarabira;2023-05-11;INATIVO
+CLI0047;Renato Mendes;Mamanguape;2025-12-02;ATIVO
+CLI0048;Vanessa Gomes;Bayeux;2023-05-27;ATIVO
+CLI0049;Henrique Souza;Sousa;2025-11-04;ATIVO
+CLI0050;Thiago Carvalho;Cabedelo;2023-11-01;ATIVO
+CLI0051;Paula Dias;Mamanguape;2023-04-13;ATIVO
+CLI0052;Paula Almeida;Santa Rita;2023-11-30;INATIVO
+CLI0053;Marcelo Martins;Sape;2024-11-04;ATIVO
+CLI0054;Marcelo Souza;Cabedelo;2024-04-13;ATIVO
+CLI0055;Natalia Costa;Bayeux;2025-05-10;INATIVO
+CLI0056;Isabela Martins;Bayeux;2024-10-31;ATIVO
+CLI0057;Rafaela Pereira;Patos;2024-03-15;INATIVO
+CLI0058;Pedro Santos;Santa Rita;2024-11-26;ATIVO
+CLI0059;Bruno Carvalho;Joao Pessoa;2025-11-30;ATIVO
+CLI0060;Henrique Carvalho;Sape;2024-03-27;ATIVO
+CLI0061;Mateus Souza;Campina Grande;2023-06-18;ATIVO
+CLI0062;Thiago Pereira;Patos;2024-03-24;INATIVO
+CLI0063;Renato Santos;Joao Pessoa;2025-07-09;ATIVO
+CLI0064;Carla Martins;Sape;2023-08-27;ATIVO
+CLI0065;Ricardo Silva;Bayeux;2025-11-06;ATIVO
+CLI0066;Rafaela Santos;Santa Rita;2024-10-06;ATIVO
+CLI0067;Carla Santos;Bayeux;2024-10-21;INATIVO
+CLI0068;Marcelo Lima;Cabedelo;2023-12-14;INATIVO
+CLI0069;Sofia Almeida;Sousa;2025-10-05;ATIVO
+CLI0070;Julia Oliveira;Campina Grande;2023-02-09;ATIVO
+CLI0071;Andre Ferreira;Sousa;2023-11-24;ATIVO
+CLI0072;Isabela Oliveira;Santa Rita;2024-04-03;ATIVO
+CLI0073;Andre Rocha;Santa Rita;2024-06-07;INATIVO
+CLI0074;Bruno Ferreira;Joao Pessoa;2024-06-03;ATIVO
+CLI0075;Paula Barbosa;Santa Rita;2023-06-12;ATIVO
+CLI0076;Renato Gomes;Patos;2023-09-05;ATIVO
+CLI0077;Diego Gomes;Bayeux;2023-04-15;INATIVO
+CLI0078;Mateus Souza;Joao Pessoa;2024-09-19;ATIVO
+CLI0079;Daniel Santos;Bayeux;2024-01-20;ATIVO
+CLI0080;Pedro Martins;Sousa;2024-09-12;ATIVO
+CLI0081;Andre Souza;Patos;2024-10-08;ATIVO
+CLI0082;Mariana Oliveira;Campina Grande;2025-02-08;ATIVO
+CLI0083;Mariana Araujo;Sousa;2024-08-22;ATIVO
+CLI0084;Joao Dias;Sousa;2024-12-11;ATIVO
+CLI0085;Julia Almeida;Campina Grande;2024-10-05;ATIVO
+CLI0086;Daniel Barbosa;Cabedelo;2024-12-16;ATIVO
+CLI0087;Marcelo Costa;Mamanguape;2024-11-06;ATIVO
+CLI0088;Amanda Pereira;Bayeux;2023-12-13;INATIVO
+CLI0089;Caio Dias;Mamanguape;2023-09-27;INATIVO
+CLI0090;Diego Ramos;Patos;2025-05-13;ATIVO
+CLI0091;Camila Dias;Sousa;2024-01-11;ATIVO
+CLI0092;Natalia Souza;Patos;2024-08-24;INATIVO
+CLI0093;Natalia Oliveira;Sousa;2023-08-04;ATIVO
+CLI0094;Eduarda Mendes;Sousa;2024-04-17;ATIVO
+CLI0095;Henrique Lima;Joao Pessoa;2024-08-03;INATIVO
+CLI0096;Amanda Silva;Sape;2024-11-17;ATIVO
+CLI0097;Sofia Mendes;Patos;2024-07-30;ATIVO
+CLI0098;Camila Barbosa;Bayeux;2024-01-31;ATIVO
+CLI0099;Julia Carvalho;Joao Pessoa;2025-11-20;ATIVO
+CLI0100;Julia Freitas;Joao Pessoa;2024-07-15;ATIVO
+CLI0101;Julia Nunes;Bayeux;2025-06-04;ATIVO
+CLI0102;Natalia Souza;Santa Rita;2025-03-18;ATIVO
+CLI0103;Mateus Gomes;Campina Grande;2024-09-03;ATIVO
+CLI0104;Leticia Freitas;Campina Grande;2025-08-29;INATIVO
+CLI0105;Henrique Martins;Campina Grande;2023-05-21;ATIVO
+CLI0106;Henrique Costa;Bayeux;2025-10-06;ATIVO
+CLI0107;Marcelo Oliveira;Joao Pessoa;2025-07-20;INATIVO
+CLI0108;Leticia Gomes;Bayeux;2024-07-05;INATIVO
+CLI0109;Carla Barbosa;Mamanguape;2025-03-14;ATIVO
+CLI0110;Mateus Nunes;Mamanguape;2024-07-24;ATIVO
+CLI0111;Daniel Pereira;Santa Rita;2023-10-22;INATIVO
+CLI0112;Caio Ferreira;Bayeux;2025-05-26;ATIVO
+CLI0113;Caio Lima;Patos;2023-09-27;INATIVO
+CLI0114;Paula Santos;Patos;2023-12-11;INATIVO
+CLI0115;Rafaela Dias;Sousa;2024-07-23;INATIVO
+CLI0116;Mateus Rocha;Patos;2025-07-06;ATIVO
+CLI0117;Ana Martins;Bayeux;2024-02-25;ATIVO
+CLI0118;Natalia Costa;Mamanguape;2024-06-25;ATIVO
+CLI0119;Thiago Oliveira;Sape;2023-02-15;ATIVO
+CLI0120;Joao Silva;Bayeux;2023-05-07;INATIVO
+CLI0121;Eduarda Santos;Campina Grande;2023-03-03;ATIVO
+CLI0122;Carla Silva;Sousa;2023-03-20;ATIVO
+CLI0123;Sofia Barbosa;Cabedelo;2025-08-09;ATIVO
+CLI0124;Leticia Oliveira;Campina Grande;2025-07-11;INATIVO
+CLI0125;Marcelo Almeida;Patos;2025-06-19;ATIVO
+CLI0126;Felipe Pereira;Campina Grande;2023-03-02;ATIVO
+CLI0127;Felipe Lima;Patos;2023-03-27;ATIVO
+CLI0128;Thiago Carvalho;Joao Pessoa;2023-11-04;ATIVO
+CLI0129;Amanda Carvalho;Mamanguape;2024-09-11;ATIVO
+CLI0130;Felipe Santos;Santa Rita;2024-01-02;ATIVO
+CLI0131;Marcelo Dias;Patos;2024-06-18;ATIVO
+CLI0132;Isabela Nunes;Mamanguape;2023-07-09;ATIVO
+CLI0133;Andre Santos;Sousa;2025-03-11;ATIVO
+CLI0134;Mateus Lima;Patos;2023-12-11;ATIVO
+CLI0135;Sofia Santos;Sape;2023-03-14;ATIVO
+CLI0136;Isabela Almeida;Santa Rita;2025-03-24;ATIVO
+CLI0137;Eduarda Freitas;Patos;2025-09-16;ATIVO
+CLI0138;Mariana Pereira;Guarabira;2023-01-17;ATIVO
+CLI0139;Natalia Martins;Patos;2024-04-23;ATIVO
+CLI0140;Bruno Barbosa;Cabedelo;2025-06-25;ATIVO
+CLI0141;Isabela Pereira;Cabedelo;2025-02-12;ATIVO
+CLI0142;Amanda Pereira;Patos;2025-07-27;ATIVO
+CLI0143;Mateus Nunes;Santa Rita;2024-03-31;INATIVO
+CLI0144;Eduarda Santos;Sape;2024-02-12;ATIVO
+CLI0145;Rafaela Pereira;Patos;2025-02-16;ATIVO
+CLI0146;Paula Gomes;Guarabira;2023-06-18;ATIVO
+CLI0147;Camila Lima;Bayeux;2023-09-20;ATIVO
+CLI0148;Rafaela Ramos;Guarabira;2024-10-20;ATIVO
+CLI0149;Renato Oliveira;Guarabira;2025-01-02;INATIVO
+CLI0150;Isabela Almeida;Campina Grande;2023-05-12;INATIVO
+CLI0151;Julia Araujo;Sousa;2024-07-11;ATIVO
+CLI0152;Ana Rocha;Campina Grande;2024-02-04;ATIVO
+CLI0153;Rafaela Carvalho;Joao Pessoa;2024-07-03;ATIVO
+CLI0154;Joao Santos;Sousa;2025-11-16;ATIVO
+CLI0155;Joao Carvalho;Bayeux;2023-03-25;ATIVO
+CLI0156;Thiago Souza;Mamanguape;2025-12-27;ATIVO
+CLI0157;Daniel Gomes;Patos;2024-05-07;ATIVO
+CLI0158;Henrique Souza;Guarabira;2025-04-26;INATIVO
+CLI0159;Caio Costa;Campina Grande;2024-04-10;ATIVO
+CLI0160;Camila Martins;Patos;2023-12-07;ATIVO
+CLI0161;Joao Carvalho;Campina Grande;2025-04-24;ATIVO
+CLI0162;Sofia Nunes;Bayeux;2025-01-23;ATIVO
+CLI0163;Andre Ferreira;Sousa;2023-06-07;ATIVO
+CLI0164;Henrique Almeida;Sousa;2025-02-12;ATIVO
+CLI0165;Eduarda Santos;Guarabira;2025-04-05;INATIVO
+CLI0166;Rafaela Mendes;Patos;2024-03-01;ATIVO
+CLI0167;Joao Araujo;Santa Rita;2025-10-11;ATIVO
+CLI0168;Mateus Araujo;Mamanguape;2024-12-03;ATIVO
+CLI0169;Camila Lima;Campina Grande;2024-01-01;ATIVO
+CLI0170;Gabriela Freitas;Guarabira;2023-01-12;ATIVO
+CLI0171;Thiago Gomes;Santa Rita;2025-01-09;ATIVO
+CLI0172;Sofia Ramos;Sousa;2023-08-18;ATIVO
+CLI0173;Diego Gomes;Joao Pessoa;2025-04-09;ATIVO
+CLI0174;Andre Nunes;Patos;2024-07-29;INATIVO
+CLI0175;Felipe Dias;Cabedelo;2024-05-26;ATIVO
+CLI0176;Pedro Almeida;Sousa;2023-06-29;INATIVO
+CLI0177;Isabela Oliveira;Mamanguape;2025-02-18;ATIVO
+CLI0178;Andre Freitas;Campina Grande;2023-07-01;ATIVO
+CLI0179;Eduarda Rocha;Sape;2024-04-02;INATIVO
+CLI0180;Carla Costa;Cabedelo;2025-07-05;INATIVO
+CLI0181;Renato Rocha;Cabedelo;2025-10-05;ATIVO
+CLI0182;Gabriela Rocha;Santa Rita;2025-12-20;INATIVO
+CLI0183;Daniel Ramos;Campina Grande;2025-11-15;ATIVO
+CLI0184;Natalia Lima;Campina Grande;2024-09-01;ATIVO
+CLI0185;Ana Martins;Mamanguape;2023-08-08;INATIVO
+CLI0186;Julia Souza;Bayeux;2025-07-08;ATIVO
+CLI0187;Mariana Mendes;Joao Pessoa;2025-05-28;INATIVO
+CLI0188;Vanessa Barbosa;Santa Rita;2025-12-21;ATIVO
+CLI0189;Leticia Costa;Bayeux;2024-12-14;INATIVO
+CLI0190;Lucas Gomes;Joao Pessoa;2023-06-05;ATIVO
+CLI0191;Ana Nunes;Joao Pessoa;2024-07-05;ATIVO
+CLI0192;Camila Ferreira;Mamanguape;2024-05-06;ATIVO
+CLI0193;Ana Carvalho;Patos;2025-07-12;ATIVO
+CLI0194;Carla Araujo;Cabedelo;2024-03-06;ATIVO
+CLI0195;Vanessa Dias;Mamanguape;2023-12-27;ATIVO
+CLI0196;Leticia Dias;Sape;2023-03-29;ATIVO
+CLI0197;Lucas Santos;Sousa;2025-07-04;ATIVO
+CLI0198;Caio Rocha;Mamanguape;2025-04-07;ATIVO
+CLI0199;Bruno Dias;Guarabira;2023-02-15;ATIVO
+CLI0200;Isabela Lima;Mamanguape;2024-04-20;ATIVO
+CLI0201;Andre Martins;Joao Pessoa;2024-06-09;ATIVO
+CLI0202;Joao Freitas;Guarabira;2024-05-29;ATIVO
+CLI0203;Natalia Ramos;Bayeux;2025-10-04;INATIVO
+CLI0204;Mateus Carvalho;Sousa;2023-06-15;ATIVO
+CLI0205;Camila Almeida;Patos;2023-12-02;ATIVO
+CLI0206;Felipe Ferreira;Patos;2023-07-18;ATIVO
+CLI0207;Isabela Carvalho;Bayeux;2023-09-25;ATIVO
+CLI0208;Ana Souza;Campina Grande;2025-09-21;ATIVO
+CLI0209;Andre Carvalho;Guarabira;2025-10-28;ATIVO
+CLI0210;Isabela Ramos;Sousa;2023-02-18;INATIVO
+CLI0211;Diego Souza;Joao Pessoa;2024-11-23;ATIVO
+CLI0212;Leticia Santos;Cabedelo;2023-09-13;ATIVO
+CLI0213;Mariana Dias;Santa Rita;2023-07-31;INATIVO
+CLI0214;Renato Araujo;Sape;2023-11-17;ATIVO
+CLI0215;Ana Costa;Patos;2023-08-02;ATIVO
+CLI0216;Carla Costa;Cabedelo;2024-06-21;INATIVO
+CLI0217;Paula Carvalho;Joao Pessoa;2025-12-27;INATIVO
+CLI0218;Mateus Carvalho;Campina Grande;2024-10-04;ATIVO
+CLI0219;Ricardo Nunes;Santa Rita;2025-03-03;ATIVO
+CLI0220;Carla Mendes;Sousa;2024-06-24;ATIVO
+CLI0221;Andre Lima;Joao Pessoa;2023-01-16;ATIVO
+CLI0222;Daniel Pereira;Santa Rita;2023-04-03;ATIVO
+CLI0223;Pedro Souza;Campina Grande;2023-10-22;ATIVO
+CLI0224;Joao Freitas;Santa Rita;2023-09-25;ATIVO
+CLI0225;Pedro Gomes;Santa Rita;2025-07-10;INATIVO
+CLI0226;Camila Nunes;Joao Pessoa;2025-07-13;ATIVO
+CLI0227;Natalia Almeida;Santa Rita;2025-07-25;ATIVO
+CLI0228;Ricardo Santos;Cabedelo;2024-11-29;ATIVO
+CLI0229;Eduarda Silva;Cabedelo;2024-09-01;INATIVO
+CLI0230;Renato Carvalho;Joao Pessoa;2024-12-12;ATIVO
+CLI0231;Caio Carvalho;Sape;2024-03-21;ATIVO
+CLI0232;Leticia Oliveira;Sape;2025-01-04;ATIVO
+CLI0233;Ana Freitas;Mamanguape;2025-05-20;ATIVO
+CLI0234;Eduarda Santos;Campina Grande;2025-04-16;ATIVO
+CLI0235;Felipe Nunes;Cabedelo;2024-11-03;ATIVO
+CLI0236;Leticia Araujo;Patos;2023-03-05;ATIVO
+CLI0237;Mariana Pereira;Cabedelo;2025-03-05;INATIVO
+CLI0238;Thiago Martins;Campina Grande;2024-02-06;INATIVO
+CLI0239;Renato Almeida;Joao Pessoa;2025-03-26;ATIVO
+CLI0240;Thiago Carvalho;Sousa;2024-08-14;ATIVO
+CLI0241;Isabela Araujo;Sape;2025-08-23;ATIVO
+CLI0242;Henrique Martins;Santa Rita;2024-01-06;INATIVO
+CLI0243;Mateus Ferreira;Sousa;2025-10-17;ATIVO
+CLI0244;Julia Ramos;Joao Pessoa;2025-07-14;ATIVO
+CLI0245;Leticia Silva;Joao Pessoa;2023-12-29;ATIVO
+CLI0246;Diego Rocha;Joao Pessoa;2024-06-12;INATIVO
+CLI0247;Leticia Silva;Campina Grande;2024-08-05;ATIVO
+CLI0248;Isabela Oliveira;Joao Pessoa;2025-04-22;ATIVO
+CLI0249;Daniel Mendes;Cabedelo;2025-01-25;ATIVO
+CLI0250;Diego Oliveira;Santa Rita;2025-07-22;INATIVO
+CLI0251;Daniel Souza;Sousa;2024-02-10;ATIVO
+CLI0252;Camila Rocha;Cabedelo;2024-07-07;ATIVO
+CLI0253;Isabela Pereira;Sousa;2024-04-17;INATIVO
+CLI0254;Pedro Ferreira;Sape;2025-09-23;INATIVO
+CLI0255;Isabela Ferreira;Sape;2023-12-01;ATIVO
+CLI0256;Andre Costa;Cabedelo;2024-10-05;ATIVO
+CLI0257;Renato Araujo;Sape;2023-05-12;ATIVO
+CLI0258;Camila Carvalho;Joao Pessoa;2025-07-20;INATIVO
+CLI0259;Vanessa Barbosa;Santa Rita;2024-02-26;ATIVO
+CLI0260;Natalia Santos;Cabedelo;2024-01-09;ATIVO
+CLI0261;Julia Carvalho;Sousa;2024-09-30;ATIVO
+CLI0262;Felipe Araujo;Sousa;2024-06-30;ATIVO
+CLI0263;Joao Lima;Campina Grande;2025-07-18;INATIVO
+CLI0264;Diego Carvalho;Patos;2024-08-05;ATIVO
+CLI0265;Diego Nunes;Cabedelo;2024-07-20;ATIVO
+CLI0266;Ricardo Dias;Santa Rita;2023-04-26;INATIVO
+CLI0267;Eduarda Gomes;Cabedelo;2023-01-25;INATIVO
+CLI0268;Ricardo Dias;Cabedelo;2024-03-12;INATIVO
+CLI0269;Mateus Carvalho;Mamanguape;2025-12-30;ATIVO
+CLI0270;Rafaela Almeida;Joao Pessoa;2025-10-02;ATIVO
+CLI0271;Caio Barbosa;Mamanguape;2024-11-20;ATIVO
+CLI0272;Felipe Dias;Sape;2024-11-22;ATIVO
+CLI0273;Paula Barbosa;Campina Grande;2024-03-05;INATIVO
+CLI0274;Mariana Santos;Campina Grande;2023-07-14;ATIVO
+CLI0275;Pedro Souza;Santa Rita;2023-01-10;ATIVO
+CLI0276;Paula Mendes;Bayeux;2024-01-07;INATIVO
+CLI0277;Paula Lima;Bayeux;2023-12-13;ATIVO
+CLI0278;Andre Ramos;Patos;2023-07-29;ATIVO
+CLI0279;Leticia Rocha;Bayeux;2023-10-12;ATIVO
+CLI0280;Marcelo Rocha;Santa Rita;2023-01-28;ATIVO
+CLI0281;Rafaela Almeida;Joao Pessoa;2024-10-28;ATIVO
+CLI0282;Natalia Dias;Cabedelo;2025-10-13;ATIVO
+CLI0283;Vanessa Ferreira;Mamanguape;2025-01-27;INATIVO
+CLI0284;Gabriela Ferreira;Campina Grande;2024-05-06;ATIVO
+CLI0285;Thiago Santos;Cabedelo;2024-04-05;ATIVO
+CLI0286;Camila Oliveira;Patos;2023-12-04;ATIVO
+CLI0287;Isabela Almeida;Joao Pessoa;2023-06-06;ATIVO
+CLI0288;Ana Mendes;Campina Grande;2024-10-17;ATIVO
+CLI0289;Diego Ramos;Joao Pessoa;2024-09-12;ATIVO
+CLI0290;Vanessa Carvalho;Sape;2023-01-09;ATIVO
+CLI0291;Carla Araujo;Joao Pessoa;2024-03-31;ATIVO
+CLI0292;Daniel Barbosa;Patos;2023-11-01;INATIVO
+CLI0293;Mariana Nunes;Bayeux;2023-07-06;ATIVO
+CLI0294;Amanda Barbosa;Sousa;2025-02-09;ATIVO
+CLI0295;Renato Araujo;Patos;2024-07-30;INATIVO
+CLI0296;Paula Nunes;Santa Rita;2024-11-25;INATIVO
+CLI0297;Henrique Freitas;Bayeux;2025-02-20;ATIVO
+CLI0298;Joao Araujo;Joao Pessoa;2025-12-12;ATIVO
+CLI0299;Ricardo Martins;Joao Pessoa;2025-05-29;ATIVO
+CLI0300;Sofia Silva;Santa Rita;2024-11-10;ATIVO

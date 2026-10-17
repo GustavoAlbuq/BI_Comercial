@@ -1,0 +1,301 @@
+﻿id_cliente,nome_cliente,status_cliente,ultima_compra,data_referencia,dias_sem_comprar,situacao_reativacao,faixa_recencia
+51,Paula Dias,ATIVO,2024-06-06,2025-12-31,573,Candidato à reativação,Mais de 365 dias
+260,Natalia Santos,ATIVO,2024-07-13,2025-12-31,536,Candidato à reativação,Mais de 365 dias
+144,Eduarda Santos,ATIVO,2024-07-13,2025-12-31,536,Candidato à reativação,Mais de 365 dias
+127,Felipe Lima,ATIVO,2024-07-29,2025-12-31,520,Candidato à reativação,Mais de 365 dias
+259,Vanessa Barbosa,ATIVO,2024-08-07,2025-12-31,511,Candidato à reativação,Mais de 365 dias
+39,Joao Ferreira,INATIVO,2024-08-08,2025-12-31,510,Candidato à reativação,Mais de 365 dias
+291,Carla Araujo,ATIVO,2024-08-10,2025-12-31,508,Candidato à reativação,Mais de 365 dias
+27,Julia Pereira,INATIVO,2024-08-17,2025-12-31,501,Candidato à reativação,Mais de 365 dias
+192,Camila Ferreira,ATIVO,2024-08-20,2025-12-31,498,Candidato à reativação,Mais de 365 dias
+62,Thiago Pereira,INATIVO,2024-09-26,2025-12-31,461,Candidato à reativação,Mais de 365 dias
+236,Leticia Araujo,ATIVO,2024-10-04,2025-12-31,453,Candidato à reativação,Mais de 365 dias
+52,Paula Almeida,INATIVO,2024-10-08,2025-12-31,449,Candidato à reativação,Mais de 365 dias
+284,Gabriela Ferreira,ATIVO,2024-10-08,2025-12-31,449,Candidato à reativação,Mais de 365 dias
+93,Natalia Oliveira,ATIVO,2024-10-11,2025-12-31,446,Candidato à reativação,Mais de 365 dias
+128,Thiago Carvalho,ATIVO,2024-10-14,2025-12-31,443,Candidato à reativação,Mais de 365 dias
+81,Andre Souza,ATIVO,2024-10-23,2025-12-31,434,Candidato à reativação,Mais de 365 dias
+235,Felipe Nunes,ATIVO,2024-11-03,2025-12-31,423,Candidato à reativação,Mais de 365 dias
+300,Sofia Silva,ATIVO,2024-11-10,2025-12-31,416,Candidato à reativação,Mais de 365 dias
+257,Renato Araujo,ATIVO,2024-11-18,2025-12-31,408,Candidato à reativação,Mais de 365 dias
+153,Rafaela Carvalho,ATIVO,2024-11-20,2025-12-31,406,Candidato à reativação,Mais de 365 dias
+285,Thiago Santos,ATIVO,2024-11-25,2025-12-31,401,Candidato à reativação,Mais de 365 dias
+202,Joao Freitas,ATIVO,2024-11-26,2025-12-31,400,Candidato à reativação,Mais de 365 dias
+20,Isabela Silva,ATIVO,2024-11-28,2025-12-31,398,Candidato à reativação,Mais de 365 dias
+30,Leticia Souza,INATIVO,2024-12-01,2025-12-31,395,Candidato à reativação,Mais de 365 dias
+215,Ana Costa,ATIVO,2024-12-16,2025-12-31,380,Candidato à reativação,Mais de 365 dias
+150,Isabela Almeida,INATIVO,2024-12-23,2025-12-31,373,Candidato à reativação,Mais de 365 dias
+147,Camila Lima,ATIVO,2024-12-23,2025-12-31,373,Candidato à reativação,Mais de 365 dias
+76,Renato Gomes,ATIVO,2024-12-26,2025-12-31,370,Candidato à reativação,Mais de 365 dias
+105,Henrique Martins,ATIVO,2024-12-29,2025-12-31,367,Candidato à reativação,Mais de 365 dias
+149,Renato Oliveira,INATIVO,2025-01-02,2025-12-31,363,Candidato à reativação,181 a 365 dias
+262,Felipe Araujo,ATIVO,2025-01-02,2025-12-31,363,Candidato à reativação,181 a 365 dias
+185,Ana Martins,INATIVO,2025-01-09,2025-12-31,356,Candidato à reativação,181 a 365 dias
+41,Camila Oliveira,ATIVO,2025-01-27,2025-12-31,338,Candidato à reativação,181 a 365 dias
+272,Felipe Dias,ATIVO,2025-02-02,2025-12-31,332,Candidato à reativação,181 a 365 dias
+221,Andre Lima,ATIVO,2025-02-07,2025-12-31,327,Candidato à reativação,181 a 365 dias
+294,Amanda Barbosa,ATIVO,2025-02-09,2025-12-31,325,Candidato à reativação,181 a 365 dias
+25,Amanda Martins,INATIVO,2025-02-10,2025-12-31,324,Candidato à reativação,181 a 365 dias
+78,Mateus Souza,ATIVO,2025-02-20,2025-12-31,314,Candidato à reativação,181 a 365 dias
+194,Carla Araujo,ATIVO,2025-02-22,2025-12-31,312,Candidato à reativação,181 a 365 dias
+57,Rafaela Pereira,INATIVO,2025-03-05,2025-12-31,301,Candidato à reativação,181 a 365 dias
+169,Camila Lima,ATIVO,2025-03-06,2025-12-31,300,Candidato à reativação,181 a 365 dias
+13,Marcelo Silva,INATIVO,2025-03-14,2025-12-31,292,Candidato à reativação,181 a 365 dias
+102,Natalia Souza,ATIVO,2025-03-18,2025-12-31,288,Candidato à reativação,181 a 365 dias
+281,Rafaela Almeida,ATIVO,2025-03-28,2025-12-31,278,Candidato à reativação,181 a 365 dias
+3,Mariana Rocha,INATIVO,2025-03-29,2025-12-31,277,Candidato à reativação,181 a 365 dias
+199,Bruno Dias,ATIVO,2025-04-01,2025-12-31,274,Candidato à reativação,181 a 365 dias
+275,Pedro Souza,ATIVO,2025-04-03,2025-12-31,272,Candidato à reativação,181 a 365 dias
+222,Daniel Pereira,ATIVO,2025-04-06,2025-12-31,269,Candidato à reativação,181 a 365 dias
+255,Isabela Ferreira,ATIVO,2025-04-09,2025-12-31,266,Candidato à reativação,181 a 365 dias
+231,Caio Carvalho,ATIVO,2025-04-09,2025-12-31,266,Candidato à reativação,181 a 365 dias
+173,Diego Gomes,ATIVO,2025-04-09,2025-12-31,266,Candidato à reativação,181 a 365 dias
+174,Andre Nunes,INATIVO,2025-04-09,2025-12-31,266,Candidato à reativação,181 a 365 dias
+10,Renato Pereira,ATIVO,2025-04-09,2025-12-31,266,Candidato à reativação,181 a 365 dias
+234,Eduarda Santos,ATIVO,2025-04-16,2025-12-31,259,Candidato à reativação,181 a 365 dias
+239,Renato Almeida,ATIVO,2025-04-27,2025-12-31,248,Candidato à reativação,181 a 365 dias
+135,Sofia Santos,ATIVO,2025-04-28,2025-12-31,247,Candidato à reativação,181 a 365 dias
+1,Carla Martins,ATIVO,2025-05-01,2025-12-31,244,Candidato à reativação,181 a 365 dias
+97,Sofia Mendes,ATIVO,2025-05-05,2025-12-31,240,Candidato à reativação,181 a 365 dias
+90,Diego Ramos,ATIVO,2025-05-13,2025-12-31,232,Candidato à reativação,181 a 365 dias
+38,Amanda Pereira,ATIVO,2025-05-19,2025-12-31,226,Candidato à reativação,181 a 365 dias
+233,Ana Freitas,ATIVO,2025-05-20,2025-12-31,225,Candidato à reativação,181 a 365 dias
+297,Henrique Freitas,ATIVO,2025-05-21,2025-12-31,224,Candidato à reativação,181 a 365 dias
+274,Mariana Santos,ATIVO,2025-05-27,2025-12-31,218,Candidato à reativação,181 a 365 dias
+179,Eduarda Rocha,INATIVO,2025-06-02,2025-12-31,212,Candidato à reativação,181 a 365 dias
+101,Julia Nunes,ATIVO,2025-06-04,2025-12-31,210,Candidato à reativação,181 a 365 dias
+108,Leticia Gomes,INATIVO,2025-06-06,2025-12-31,208,Candidato à reativação,181 a 365 dias
+292,Daniel Barbosa,INATIVO,2025-06-06,2025-12-31,208,Candidato à reativação,181 a 365 dias
+204,Mateus Carvalho,ATIVO,2025-06-09,2025-12-31,205,Candidato à reativação,181 a 365 dias
+223,Pedro Souza,ATIVO,2025-06-09,2025-12-31,205,Candidato à reativação,181 a 365 dias
+96,Amanda Silva,ATIVO,2025-06-11,2025-12-31,203,Candidato à reativação,181 a 365 dias
+206,Felipe Ferreira,ATIVO,2025-06-11,2025-12-31,203,Candidato à reativação,181 a 365 dias
+83,Mariana Araujo,ATIVO,2025-06-14,2025-12-31,200,Candidato à reativação,181 a 365 dias
+61,Mateus Souza,ATIVO,2025-06-19,2025-12-31,195,Candidato à reativação,181 a 365 dias
+136,Isabela Almeida,ATIVO,2025-06-19,2025-12-31,195,Candidato à reativação,181 a 365 dias
+8,Caio Martins,ATIVO,2025-06-24,2025-12-31,190,Candidato à reativação,181 a 365 dias
+230,Renato Carvalho,ATIVO,2025-06-25,2025-12-31,189,Candidato à reativação,181 a 365 dias
+146,Paula Gomes,ATIVO,2025-06-25,2025-12-31,189,Candidato à reativação,181 a 365 dias
+287,Isabela Almeida,ATIVO,2025-06-26,2025-12-31,188,Candidato à reativação,181 a 365 dias
+67,Carla Santos,INATIVO,2025-06-27,2025-12-31,187,Candidato à reativação,181 a 365 dias
+247,Leticia Silva,ATIVO,2025-06-27,2025-12-31,187,Candidato à reativação,181 a 365 dias
+267,Eduarda Gomes,INATIVO,2025-06-28,2025-12-31,186,Candidato à reativação,181 a 365 dias
+71,Andre Ferreira,ATIVO,2025-06-28,2025-12-31,186,Candidato à reativação,181 a 365 dias
+299,Ricardo Martins,ATIVO,2025-06-28,2025-12-31,186,Candidato à reativação,181 a 365 dias
+159,Caio Costa,ATIVO,2025-06-30,2025-12-31,184,Candidato à reativação,181 a 365 dias
+251,Daniel Souza,ATIVO,2025-07-01,2025-12-31,183,Candidato à reativação,181 a 365 dias
+190,Lucas Gomes,ATIVO,2025-07-03,2025-12-31,181,Candidato à reativação,181 a 365 dias
+288,Ana Mendes,ATIVO,2025-07-04,2025-12-31,180,Candidato à reativação,91 a 180 dias
+197,Lucas Santos,ATIVO,2025-07-04,2025-12-31,180,Candidato à reativação,91 a 180 dias
+165,Eduarda Santos,INATIVO,2025-07-05,2025-12-31,179,Candidato à reativação,91 a 180 dias
+256,Andre Costa,ATIVO,2025-07-07,2025-12-31,177,Candidato à reativação,91 a 180 dias
+85,Julia Almeida,ATIVO,2025-07-08,2025-12-31,176,Candidato à reativação,91 a 180 dias
+80,Pedro Martins,ATIVO,2025-07-10,2025-12-31,174,Candidato à reativação,91 a 180 dias
+73,Andre Rocha,INATIVO,2025-07-11,2025-12-31,173,Candidato à reativação,91 a 180 dias
+116,Mateus Rocha,ATIVO,2025-07-13,2025-12-31,171,Candidato à reativação,91 a 180 dias
+133,Andre Santos,ATIVO,2025-07-14,2025-12-31,170,Candidato à reativação,91 a 180 dias
+160,Camila Martins,ATIVO,2025-07-14,2025-12-31,170,Candidato à reativação,91 a 180 dias
+172,Sofia Ramos,ATIVO,2025-07-15,2025-12-31,169,Candidato à reativação,91 a 180 dias
+31,Diego Costa,INATIVO,2025-07-18,2025-12-31,166,Candidato à reativação,91 a 180 dias
+151,Julia Araujo,ATIVO,2025-07-19,2025-12-31,165,Candidato à reativação,91 a 180 dias
+139,Natalia Martins,ATIVO,2025-07-19,2025-12-31,165,Candidato à reativação,91 a 180 dias
+95,Henrique Lima,INATIVO,2025-07-21,2025-12-31,163,Candidato à reativação,91 a 180 dias
+34,Diego Mendes,ATIVO,2025-07-22,2025-12-31,162,Candidato à reativação,91 a 180 dias
+263,Joao Lima,INATIVO,2025-07-24,2025-12-31,160,Candidato à reativação,91 a 180 dias
+286,Camila Oliveira,ATIVO,2025-07-24,2025-12-31,160,Candidato à reativação,91 a 180 dias
+28,Natalia Almeida,ATIVO,2025-07-25,2025-12-31,159,Candidato à reativação,91 a 180 dias
+132,Isabela Nunes,ATIVO,2025-07-28,2025-12-31,156,Candidato à reativação,91 a 180 dias
+145,Rafaela Pereira,ATIVO,2025-07-30,2025-12-31,154,Candidato à reativação,91 a 180 dias
+189,Leticia Costa,INATIVO,2025-08-09,2025-12-31,144,Candidato à reativação,91 a 180 dias
+180,Carla Costa,INATIVO,2025-08-09,2025-12-31,144,Candidato à reativação,91 a 180 dias
+68,Marcelo Lima,INATIVO,2025-08-10,2025-12-31,143,Candidato à reativação,91 a 180 dias
+157,Daniel Gomes,ATIVO,2025-08-11,2025-12-31,142,Candidato à reativação,91 a 180 dias
+212,Leticia Santos,ATIVO,2025-08-12,2025-12-31,141,Candidato à reativação,91 a 180 dias
+227,Natalia Almeida,ATIVO,2025-08-13,2025-12-31,140,Candidato à reativação,91 a 180 dias
+119,Thiago Oliveira,ATIVO,2025-08-13,2025-12-31,140,Candidato à reativação,91 a 180 dias
+21,Eduarda Martins,INATIVO,2025-08-14,2025-12-31,139,Candidato à reativação,91 a 180 dias
+268,Ricardo Dias,INATIVO,2025-08-15,2025-12-31,138,Candidato à reativação,91 a 180 dias
+5,Gabriela Barbosa,INATIVO,2025-08-17,2025-12-31,136,Candidato à reativação,91 a 180 dias
+60,Henrique Carvalho,ATIVO,2025-08-19,2025-12-31,134,Candidato à reativação,91 a 180 dias
+89,Caio Dias,INATIVO,2025-08-19,2025-12-31,134,Candidato à reativação,91 a 180 dias
+113,Caio Lima,INATIVO,2025-08-21,2025-12-31,132,Candidato à reativação,91 a 180 dias
+218,Mateus Carvalho,ATIVO,2025-08-27,2025-12-31,126,Candidato à reativação,91 a 180 dias
+4,Carla Souza,ATIVO,2025-08-27,2025-12-31,126,Candidato à reativação,91 a 180 dias
+193,Ana Carvalho,ATIVO,2025-09-02,2025-12-31,120,Candidato à reativação,91 a 180 dias
+198,Caio Rocha,ATIVO,2025-09-03,2025-12-31,119,Candidato à reativação,91 a 180 dias
+9,Pedro Carvalho,ATIVO,2025-09-03,2025-12-31,119,Candidato à reativação,91 a 180 dias
+63,Renato Santos,ATIVO,2025-09-03,2025-12-31,119,Candidato à reativação,91 a 180 dias
+214,Renato Araujo,ATIVO,2025-09-07,2025-12-31,115,Candidato à reativação,91 a 180 dias
+48,Vanessa Gomes,ATIVO,2025-09-15,2025-12-31,107,Candidato à reativação,91 a 180 dias
+175,Felipe Dias,ATIVO,2025-09-16,2025-12-31,106,Candidato à reativação,91 a 180 dias
+55,Natalia Costa,INATIVO,2025-09-16,2025-12-31,106,Candidato à reativação,91 a 180 dias
+250,Diego Oliveira,INATIVO,2025-09-21,2025-12-31,101,Candidato à reativação,91 a 180 dias
+125,Marcelo Almeida,ATIVO,2025-09-22,2025-12-31,100,Candidato à reativação,91 a 180 dias
+254,Pedro Ferreira,INATIVO,2025-09-23,2025-12-31,99,Candidato à reativação,91 a 180 dias
+279,Leticia Rocha,ATIVO,2025-09-24,2025-12-31,98,Candidato à reativação,91 a 180 dias
+211,Diego Souza,ATIVO,2025-09-29,2025-12-31,93,Candidato à reativação,91 a 180 dias
+270,Rafaela Almeida,ATIVO,2025-10-02,2025-12-31,90,Candidato à reativação,61 a 90 dias
+203,Natalia Ramos,INATIVO,2025-10-04,2025-12-31,88,Compra recente,61 a 90 dias
+69,Sofia Almeida,ATIVO,2025-10-05,2025-12-31,87,Compra recente,61 a 90 dias
+167,Joao Araujo,ATIVO,2025-10-11,2025-12-31,81,Compra recente,61 a 90 dias
+75,Paula Barbosa,ATIVO,2025-10-12,2025-12-31,80,Compra recente,61 a 90 dias
+282,Natalia Dias,ATIVO,2025-10-13,2025-12-31,79,Compra recente,61 a 90 dias
+46,Mateus Araujo,INATIVO,2025-10-13,2025-12-31,79,Compra recente,61 a 90 dias
+243,Mateus Ferreira,ATIVO,2025-10-17,2025-12-31,75,Compra recente,61 a 90 dias
+88,Amanda Pereira,INATIVO,2025-10-20,2025-12-31,72,Compra recente,61 a 90 dias
+26,Leticia Dias,ATIVO,2025-11-02,2025-12-31,59,Compra recente,31 a 60 dias
+49,Henrique Souza,ATIVO,2025-11-04,2025-12-31,57,Compra recente,31 a 60 dias
+65,Ricardo Silva,ATIVO,2025-11-06,2025-12-31,55,Compra recente,31 a 60 dias
+24,Mateus Rocha,ATIVO,2025-11-11,2025-12-31,50,Compra recente,31 a 60 dias
+253,Isabela Pereira,INATIVO,2025-11-13,2025-12-31,48,Compra recente,31 a 60 dias
+129,Amanda Carvalho,ATIVO,2025-11-16,2025-12-31,45,Compra recente,31 a 60 dias
+154,Joao Santos,ATIVO,2025-11-16,2025-12-31,45,Compra recente,31 a 60 dias
+77,Diego Gomes,INATIVO,2025-11-17,2025-12-31,44,Compra recente,31 a 60 dias
+72,Isabela Oliveira,ATIVO,2025-11-17,2025-12-31,44,Compra recente,31 a 60 dias
+87,Marcelo Costa,ATIVO,2025-11-18,2025-12-31,43,Compra recente,31 a 60 dias
+99,Julia Carvalho,ATIVO,2025-11-20,2025-12-31,41,Compra recente,31 a 60 dias
+196,Leticia Dias,ATIVO,2025-11-23,2025-12-31,38,Compra recente,31 a 60 dias
+122,Carla Silva,ATIVO,2025-11-24,2025-12-31,37,Compra recente,31 a 60 dias
+158,Henrique Souza,INATIVO,2025-11-24,2025-12-31,37,Compra recente,31 a 60 dias
+54,Marcelo Souza,ATIVO,2025-11-25,2025-12-31,36,Compra recente,31 a 60 dias
+176,Pedro Almeida,INATIVO,2025-11-26,2025-12-31,35,Compra recente,31 a 60 dias
+276,Paula Mendes,INATIVO,2025-11-27,2025-12-31,34,Compra recente,31 a 60 dias
+35,Carla Pereira,ATIVO,2025-11-27,2025-12-31,34,Compra recente,31 a 60 dias
+121,Eduarda Santos,ATIVO,2025-11-28,2025-12-31,33,Compra recente,31 a 60 dias
+126,Felipe Pereira,ATIVO,2025-11-30,2025-12-31,31,Compra recente,31 a 60 dias
+59,Bruno Carvalho,ATIVO,2025-11-30,2025-12-31,31,Compra recente,31 a 60 dias
+252,Camila Rocha,ATIVO,2025-12-01,2025-12-31,30,Compra recente,Até 30 dias
+47,Renato Mendes,ATIVO,2025-12-02,2025-12-31,29,Compra recente,Até 30 dias
+245,Leticia Silva,ATIVO,2025-12-03,2025-12-31,28,Compra recente,Até 30 dias
+201,Andre Martins,ATIVO,2025-12-03,2025-12-31,28,Compra recente,Até 30 dias
+242,Henrique Martins,INATIVO,2025-12-03,2025-12-31,28,Compra recente,Até 30 dias
+155,Joao Carvalho,ATIVO,2025-12-04,2025-12-31,27,Compra recente,Até 30 dias
+224,Joao Freitas,ATIVO,2025-12-05,2025-12-31,26,Compra recente,Até 30 dias
+86,Daniel Barbosa,ATIVO,2025-12-06,2025-12-31,25,Compra recente,Até 30 dias
+40,Rafaela Souza,INATIVO,2025-12-07,2025-12-31,24,Compra recente,Até 30 dias
+94,Eduarda Mendes,ATIVO,2025-12-07,2025-12-31,24,Compra recente,Até 30 dias
+2,Thiago Oliveira,INATIVO,2025-12-07,2025-12-31,24,Compra recente,Até 30 dias
+134,Mateus Lima,ATIVO,2025-12-08,2025-12-31,23,Compra recente,Até 30 dias
+278,Andre Ramos,ATIVO,2025-12-08,2025-12-31,23,Compra recente,Até 30 dias
+115,Rafaela Dias,INATIVO,2025-12-08,2025-12-31,23,Compra recente,Até 30 dias
+66,Rafaela Santos,ATIVO,2025-12-09,2025-12-31,22,Compra recente,Até 30 dias
+271,Caio Barbosa,ATIVO,2025-12-09,2025-12-31,22,Compra recente,Até 30 dias
+238,Thiago Martins,INATIVO,2025-12-10,2025-12-31,21,Compra recente,Até 30 dias
+277,Paula Lima,ATIVO,2025-12-10,2025-12-31,21,Compra recente,Até 30 dias
+130,Felipe Santos,ATIVO,2025-12-11,2025-12-31,20,Compra recente,Até 30 dias
+92,Natalia Souza,INATIVO,2025-12-11,2025-12-31,20,Compra recente,Até 30 dias
+103,Mateus Gomes,ATIVO,2025-12-11,2025-12-31,20,Compra recente,Até 30 dias
+17,Carla Santos,ATIVO,2025-12-12,2025-12-31,19,Compra recente,Até 30 dias
+298,Joao Araujo,ATIVO,2025-12-12,2025-12-31,19,Compra recente,Até 30 dias
+11,Pedro Mendes,ATIVO,2025-12-13,2025-12-31,18,Compra recente,Até 30 dias
+6,Pedro Freitas,INATIVO,2025-12-14,2025-12-31,17,Compra recente,Até 30 dias
+264,Diego Carvalho,ATIVO,2025-12-14,2025-12-31,17,Compra recente,Até 30 dias
+216,Carla Costa,INATIVO,2025-12-14,2025-12-31,17,Compra recente,Até 30 dias
+219,Ricardo Nunes,ATIVO,2025-12-15,2025-12-31,16,Compra recente,Até 30 dias
+56,Isabela Martins,ATIVO,2025-12-16,2025-12-31,15,Compra recente,Até 30 dias
+16,Mateus Ferreira,ATIVO,2025-12-16,2025-12-31,15,Compra recente,Até 30 dias
+98,Camila Barbosa,ATIVO,2025-12-16,2025-12-31,15,Compra recente,Até 30 dias
+205,Camila Almeida,ATIVO,2025-12-17,2025-12-31,14,Compra recente,Até 30 dias
+42,Eduarda Araujo,INATIVO,2025-12-18,2025-12-31,13,Compra recente,Até 30 dias
+280,Marcelo Rocha,ATIVO,2025-12-18,2025-12-31,13,Compra recente,Até 30 dias
+178,Andre Freitas,ATIVO,2025-12-19,2025-12-31,12,Compra recente,Até 30 dias
+23,Carla Freitas,INATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+22,Caio Mendes,ATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+171,Thiago Gomes,ATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+50,Thiago Carvalho,ATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+131,Marcelo Dias,ATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+191,Ana Nunes,ATIVO,2025-12-20,2025-12-31,11,Compra recente,Até 30 dias
+207,Isabela Carvalho,ATIVO,2025-12-21,2025-12-31,10,Compra recente,Até 30 dias
+19,Renato Araujo,ATIVO,2025-12-21,2025-12-31,10,Compra recente,Até 30 dias
+163,Andre Ferreira,ATIVO,2025-12-22,2025-12-31,9,Compra recente,Até 30 dias
+142,Amanda Pereira,ATIVO,2025-12-22,2025-12-31,9,Compra recente,Até 30 dias
+111,Daniel Pereira,INATIVO,2025-12-22,2025-12-31,9,Compra recente,Até 30 dias
+117,Ana Martins,ATIVO,2025-12-22,2025-12-31,9,Compra recente,Até 30 dias
+184,Natalia Lima,ATIVO,2025-12-22,2025-12-31,9,Compra recente,Até 30 dias
+33,Mariana Lima,ATIVO,2025-12-23,2025-12-31,8,Compra recente,Até 30 dias
+64,Carla Martins,ATIVO,2025-12-23,2025-12-31,8,Compra recente,Até 30 dias
+32,Julia Freitas,INATIVO,2025-12-23,2025-12-31,8,Compra recente,Até 30 dias
+186,Julia Souza,ATIVO,2025-12-23,2025-12-31,8,Compra recente,Até 30 dias
+53,Marcelo Martins,ATIVO,2025-12-23,2025-12-31,8,Compra recente,Até 30 dias
+200,Isabela Lima,ATIVO,2025-12-24,2025-12-31,7,Compra recente,Até 30 dias
+120,Joao Silva,INATIVO,2025-12-24,2025-12-31,7,Compra recente,Até 30 dias
+166,Rafaela Mendes,ATIVO,2025-12-24,2025-12-31,7,Compra recente,Até 30 dias
+232,Leticia Oliveira,ATIVO,2025-12-24,2025-12-31,7,Compra recente,Até 30 dias
+228,Ricardo Santos,ATIVO,2025-12-24,2025-12-31,7,Compra recente,Até 30 dias
+36,Marcelo Dias,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+187,Mariana Mendes,INATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+58,Pedro Santos,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+143,Mateus Nunes,INATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+240,Thiago Carvalho,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+161,Joao Carvalho,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+168,Mateus Araujo,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+104,Leticia Freitas,INATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+181,Renato Rocha,ATIVO,2025-12-25,2025-12-31,6,Compra recente,Até 30 dias
+123,Sofia Barbosa,ATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+273,Paula Barbosa,INATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+283,Vanessa Ferreira,INATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+229,Eduarda Silva,INATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+109,Carla Barbosa,ATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+15,Rafaela Oliveira,ATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+141,Isabela Pereira,ATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+37,Mateus Carvalho,ATIVO,2025-12-26,2025-12-31,5,Compra recente,Até 30 dias
+170,Gabriela Freitas,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+112,Caio Ferreira,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+237,Mariana Pereira,INATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+261,Julia Carvalho,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+45,Marcelo Araujo,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+79,Daniel Santos,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+213,Mariana Dias,INATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+217,Paula Carvalho,INATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+195,Vanessa Dias,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+44,Carla Lima,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+266,Ricardo Dias,INATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+12,Felipe Nunes,ATIVO,2025-12-27,2025-12-31,4,Compra recente,Até 30 dias
+29,Rafaela Dias,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+246,Diego Rocha,INATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+91,Camila Dias,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+82,Mariana Oliveira,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+148,Rafaela Ramos,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+137,Eduarda Freitas,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+293,Mariana Nunes,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+107,Marcelo Oliveira,INATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+70,Julia Oliveira,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+225,Pedro Gomes,INATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+138,Mariana Pereira,ATIVO,2025-12-28,2025-12-31,3,Compra recente,Até 30 dias
+177,Isabela Oliveira,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+164,Henrique Almeida,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+106,Henrique Costa,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+124,Leticia Oliveira,INATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+140,Bruno Barbosa,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+110,Mateus Nunes,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+74,Bruno Ferreira,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+100,Julia Freitas,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+296,Paula Nunes,INATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+152,Ana Rocha,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+7,Leticia Martins,INATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+290,Vanessa Carvalho,ATIVO,2025-12-29,2025-12-31,2,Compra recente,Até 30 dias
+295,Renato Araujo,INATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+209,Andre Carvalho,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+162,Sofia Nunes,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+18,Vanessa Barbosa,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+14,Mariana Araujo,INATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+220,Carla Mendes,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+244,Julia Ramos,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+248,Isabela Oliveira,ATIVO,2025-12-30,2025-12-31,1,Compra recente,Até 30 dias
+226,Camila Nunes,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+210,Isabela Ramos,INATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+208,Ana Souza,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+43,Sofia Costa,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+183,Daniel Ramos,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+188,Vanessa Barbosa,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+241,Isabela Araujo,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+265,Diego Nunes,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+118,Natalia Costa,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+182,Gabriela Rocha,INATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+258,Camila Carvalho,INATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+269,Mateus Carvalho,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+156,Thiago Souza,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+84,Joao Dias,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+114,Paula Santos,INATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+289,Diego Ramos,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
+249,Daniel Mendes,ATIVO,2025-12-31,2025-12-31,0,Compra recente,Até 30 dias
